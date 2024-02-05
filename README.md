@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Yoti72/Yoti72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my future aspirations!
 - 📫 How to reach me: (Email) - Panayoti.kourkoumelis@yahoo.com
 - ⚡ Fun fact: I am very disciplined in the passions I choose to do! Apart from Software Development, I am a very avid Rock Climbing and Calithenics athelete.
--->
+
 # 💫 About Me:
 
 ## 🌐 Socials:
